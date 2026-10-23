@@ -59,7 +59,7 @@ The users shouldn’t pay to see what they are mostly wasting, I am sure they do
 <img width="377" height="915" alt="image" src="https://github.com/user-attachments/assets/22e9b028-6c0d-4cd1-a4c6-bef231a0b8f5" /> <img width="377" height="725" alt="image" src="https://github.com/user-attachments/assets/9996eefd-1d09-4011-a2cd-5581881832d4" />
 
 
-The Initial designo the right look way to cluttered, it makes it feel like its more like a cooking app rather than a food tracker so I decided to feel the screen with the bigger image of the recipies so it makes it look more minimalisti and sleek.
+The Initial designo the right look way to cluttered, it makes it feel like its more like a cooking app rather than a food tracker so I decided to fill the screen with the bigger image of the recipies so it makes it look more minimalisti and sleek.
 
 
 The concept on the left was the final concept idea. At the top are your 'Locations' where you can swipe through them all, there should be images of them, the plan is that it should be a short cut to see all your items from the 'fridge' if you are hovering from there. The expiring soon would be the all the food which is  expiring, it should be sorted in order where the food which is going to expire first would sit on the front of the list and so on and so foruth; With finally the Reccomended recipes which should be an API which searches a site which contains 'Chicken' or 'Spring onion' and provides a reccomendation on what to make with the food which will soon expire.
