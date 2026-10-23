@@ -56,7 +56,7 @@ The users shouldn’t pay to see what they are mostly wasting, I am sure they do
 
 
 ### Home Screen
-<img width="377" height="915" alt="image" src="https://github.com/user-attachments/assets/22e9b028-6c0d-4cd1-a4c6-bef231a0b8f5" /> <img width="377" height="915" alt="image" src="https://github.com/user-attachments/assets/9996eefd-1d09-4011-a2cd-5581881832d4" />
+<img width="377" height="915" alt="image" src="https://github.com/user-attachments/assets/22e9b028-6c0d-4cd1-a4c6-bef231a0b8f5" /> <img width="377" height="725" alt="image" src="https://github.com/user-attachments/assets/9996eefd-1d09-4011-a2cd-5581881832d4" />
 
 
 The Initial designo the right look way to cluttered, it makes it feel like its more like a cooking app rather than a food tracker so I decided to feel the screen with the bigger image of the recipies so it makes it look more minimalisti and sleek.
