@@ -7,6 +7,7 @@ import androidx.navigation.NavController
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.*
 import com.example.nowaste.ui.navigation.Routes
+import com.example.nowaste.ui.screens.item_screens.ItemScreen
 
 @Composable
 fun BaseScreen(navController: NavHostController, modifier: Modifier) {
